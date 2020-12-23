@@ -4,7 +4,8 @@
 #ifndef WX_PRECOMP
     #include <wx/wx.h>
 #endif
-
+//
+//
 #include <wx/button.h>
 // create application 
 class Myapp : public wxApp
