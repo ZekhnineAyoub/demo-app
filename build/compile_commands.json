@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/test/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2017\\BUILDT~1\\VC\\Tools\\MSVC\\1416~1.270\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DUNICODE -DWXUSINGDLL -D_UNICODE -IC:\\devlib\\lib\\vc_dll\\mswu -IC:\\devlib\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\test.dir\\test.cpp.obj /FdCMakeFiles\\test.dir\\ /FS -c C:\\test\\test.cpp",
+  "file": "C:/test/test.cpp"
+}
+]
